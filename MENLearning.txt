@@ -1,0 +1,31 @@
+I have covered and learned the topics:
+
+1) what is express and what is its use ?
+
+2) What is middleware, its types(custom,prebuild, third party) and its use ?
+
+3) How to link set Html file and linked with it the static files (javascript,CSS) file
+   (static file are those which we can use directly in our html file without any authentication, it may be *images,css,javescript* )
+
+4) form controls (means send data from html file to server side)
+
+5) Now i have connect the mongoDB and make userModel Schema and create the post request(data sending fron frontend to server saving in mongodb done) 
+
+6) I covered and take understanding of others three methods (Read,Update, Delete) from CRUD also
+
+7) Now we shall going to cover the clone of Google drive for better understanding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
