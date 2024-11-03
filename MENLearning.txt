@@ -13,8 +13,11 @@ I have covered and learned the topics:
 
 6) I covered and take understanding of others three methods (Read,Update, Delete) from CRUD also
 
-7) Now we shall going to cover the clone of Google drive for better understanding
+7) Now we shall going to cover the clone of Google drive for better understanding from video 1:56 to onward
 
+8) I am geeting the data from form to server side but now i am applying on it the express validator, means it will guide us that the coming data is validated or not
+
+9) 
 
 
 
